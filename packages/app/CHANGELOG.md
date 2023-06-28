@@ -1,5 +1,12 @@
 # example-app
 
+## 0.2.85-next.1
+
+### Patch Changes
+
+- Updated dependencies
+  - @backstage/plugin-catalog-unprocessed-entities@0.1.1-next.1
+
 ## 0.2.85-next.0
 
 ### Patch Changes

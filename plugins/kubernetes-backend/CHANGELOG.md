@@ -1,5 +1,11 @@
 # @backstage/plugin-kubernetes-backend
 
+## 0.11.2-next.1
+
+### Patch Changes
+
+- c2e530653539: Add WebSocket support to `kubernetes-backend` proxy.
+
 ## 0.11.2-next.0
 
 ### Patch Changes

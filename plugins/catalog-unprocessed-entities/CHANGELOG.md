@@ -1,5 +1,11 @@
 # @backstage/plugin-catalog-unprocessed-entities
 
+## 0.1.1-next.1
+
+### Patch Changes
+
+- 267396f45bd0: Corrected the installation instructions.
+
 ## 0.1.1-next.0
 
 ### Patch Changes

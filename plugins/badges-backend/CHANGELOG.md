@@ -1,5 +1,11 @@
 # @backstage/plugin-badges-backend
 
+## 0.2.2-next.1
+
+### Patch Changes
+
+- 2bbdcb4154c3: Added support for the [new backend system](https://backstage.io/docs/backend-system/)
+
 ## 0.2.2-next.0
 
 ### Patch Changes
